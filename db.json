@@ -4,15 +4,6 @@
       {
         "status": "RED",
         "text": "Atenção. Chuva entre 10 e 19 mm por hora. Válido por uma hora",
-        "dateBegin": "2024-07-11T14:53:00.000Z",
-        "dateEnd": "2024-07-11T15:54:00.000Z",
-        "location": {
-          "id": 424444
-        }
-      },
-      {
-        "status": "RED",
-        "text": "Atenção. Chuva entre 10 e 19 mm por hora. Válido por uma hora",
         "dateBegin": "2024-07-01T14:52:00.000Z",
         "dateEnd": "2024-07-01T15:54:00.000Z",
         "location": {
