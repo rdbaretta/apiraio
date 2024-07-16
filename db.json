@@ -1,16 +1,6 @@
 {
   "monitoring": {
-    "alerts": [
-      {
-        "status": "GREEN",
-        "text": "Atenção. Chuva entre 10 e 19 mm por hora. Válido por uma hora",
-        "dateBegin": "2024-07-01T14:52:00.000Z",
-        "dateEnd": "2024-07-01T15:52:00.000Z",
-        "location": {
-          "id": 424445
-        }
-      }
-    ],
+    "alerts": [],
     "locations": [
       {
         "id": 381034,
