@@ -17,6 +17,14 @@
         "dateEnd": "2024-07-01T15:53:00.000Z",
         "location": {
           "id": 424445
+        },
+        {
+        "status": "RED",
+        "text": "Atenção. Chuva entre 10 e 19 mm por hora. Válido por uma hora",
+        "dateBegin": "2024-07-01T14:52:00.000Z",
+        "dateEnd": "2024-07-01T15:53:00.000Z",
+        "location": {
+          "id": 525555
         }
       }
     ],
@@ -50,12 +58,6 @@
         "name": "SN_Mina/Usina_Chuva",
         "latitude": "-6.052157",
         "longitude": "-50.095215"
-      },
-      {
-        "id": 424464,
-        "name": "Gelado_Chuva",
-        "latitude": "-5.967251",
-        "longitude": "-50.102259"
       },
       {
         "id": 424472,
