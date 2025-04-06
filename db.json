@@ -11,7 +11,7 @@
         }
       },
       {
-        "status": "YELLOW",
+        "status": "RED",
         "text": "Atenção. Chuva entre 10 e 19 mm por hora. Válido por uma hora",
         "dateBegin": "2024-07-01T14:52:00.000Z",
         "dateEnd": "2024-07-01T17:56:00.000Z",
@@ -20,7 +20,7 @@
         }
       },
         {
-        "status": "YELLOW",
+        "status": "RED",
         "text": "Atenção. Chuva entre 10 e 19 mm por hora. Válido por uma hora",
         "dateBegin": "2024-07-01T08:52:00.000Z",
         "dateEnd": "2024-07-01T10:53:00.000Z",
